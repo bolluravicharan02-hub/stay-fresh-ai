@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Database
+*.db
+
+# Logs
+logs/
+
+# Uploads
+uploads/
+
+# VS Code
+.vscode/
+
+# Playwright
+playwright-report/
+test-results/
+
+# Python cache
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+credentials.json
